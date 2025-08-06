@@ -1,0 +1,10 @@
+name = "itinerary-recommender"
+main = "src/worker.py"
+compatibility_flags = ["python_workers"]
+compatibility_date = "2024-04-03"
+
+[vars]
+FIREBASE_PROJECT_ID = "itinerary-generator-8bf36"
+FIRESTORE_COLLECTION = "itinerarycollection"
+
+

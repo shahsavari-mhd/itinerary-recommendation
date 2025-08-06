@@ -1,0 +1,4 @@
+LLM_API_KEY = "your openai api key"
+FIREBASE_EMAIL = "your firebase email auth setted"
+FIREBASE_PASSWORD = "your firebase password auth setted"
+FIREBASE_API_KEY = "your firebase api key"
